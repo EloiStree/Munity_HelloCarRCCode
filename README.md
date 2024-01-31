@@ -11,3 +11,8 @@ The LUA is no control because you have limite access.
 
 The C# one is review by a code before battle.
 Any attempt to do harm to the computer 
+
+
+Convention: 
+- `LASTNAME_FIRSTNAME`
+- `_PSEUDO`   (Alpha Numérique only Az or 0-9)
